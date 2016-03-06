@@ -1,3 +1,15 @@
 [submodule "CodePath-Tip-Calculator"]
 	path = CodePath-Tip-Calculator
 	url = git@github.com:vinnyoodles/CodePath-Tip-Calculator.git
+[submodule "CodePath-Week1-flicks"]
+	path = CodePath-Week1-flicks
+	url = git@github.com:vinnyoodles/CodePath-Week1-flicks.git
+[submodule "CodePath-Week3-Yelp"]
+	path = CodePath-Week3-Yelp
+	url = git@github.com:vinnyoodles/CodePath-Week3-Yelp.git
+[submodule "CodePath-Week4-Twitter"]
+	path = CodePath-Week4-Twitter
+	url = git@github.com:vinnyoodles/CodePath-Week4-Twitter.git
+[submodule "CodePath-Week6-Instagram"]
+	path = CodePath-Week6-Instagram
+	url = git@github.com:vinnyoodles/CodePath-Week6-Instagram.git
