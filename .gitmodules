@@ -1,6 +1,3 @@
-[submodule "CodePath-Tip-Calculator"]
-	path = CodePath-Tip-Calculator
-	url = git@github.com:vinnyoodles/CodePath-Tip-Calculator.git
 [submodule "CodePath-Week1-flicks"]
 	path = CodePath-Week1-flicks
 	url = git@github.com:vinnyoodles/CodePath-Week1-flicks.git
