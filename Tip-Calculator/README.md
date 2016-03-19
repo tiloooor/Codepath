@@ -28,9 +28,9 @@ The following **optional** features are implemented:
 
   Here's a walkthrough of the implemented calculator:
 
-  <img src='tip_calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='currency.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='color_theme.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='images/tip_calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='images/currency.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='images/color_theme.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
   GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
