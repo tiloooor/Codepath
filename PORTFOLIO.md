@@ -2,7 +2,7 @@
 
 This is a list of all my iOS apps I have developed or have played a major part in development
 
-#####Codepath weekly assignments
+####Codepath weekly assignments
 - [Tip Calculator - Introduction] (https://github.com/vinnyoodles/Codepath/tree/master/Tip-Calculator)
   - Takes in a money amount and prints out the tip percentage
   - Determines the tip percentage
@@ -19,12 +19,12 @@ This is a list of all my iOS apps I have developed or have played a major part i
   - Allows user to share images by taking a picture or choosing from photo library
   - Uses [Parse] (https://parse.com/docs/ios/guide) for backend server including all API requests and user data
 
-#####Codepath group project
+####Codepath group project
 - [QSport] (https://github.com/QSport/Qsport)
   - Sporting / social networking app
   - Connects users who want to play the same sport
   - Tinder for sports
 
-#####Other iOS apps
+####Other iOS apps
 - [Cartera] (https://github.com/makersofawesome/cartera_ios)
   - Banking app for Virginia Tech's hackathon

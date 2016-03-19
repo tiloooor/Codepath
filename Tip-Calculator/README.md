@@ -14,15 +14,13 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
   * [x] UI animations
-  * [ ] Remembering the bill amount across app restarts (if <10mins)
   * [x] Using locale-specific currency and currency thousands separators.
-  * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
   The following **additional** features are implemented:
 
   - [x] List anything else that you can get done to improve the app functionality!
-    1. Split tab by 2, 3 and 4
-    2. Add color themes
+  - [x] Split tab by 2, 3 and 4
+  - [x] Add color themes
 
 ## Video Walkthrough 
 

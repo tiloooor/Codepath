@@ -10,15 +10,6 @@ The following **required** functionality is complete:
 - [x] Custom cells should have the proper Auto Layout constraints.
 - [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
-The following **optional** features are implemented:
-
-- [ ] Infinite scroll for restaurant results.
-- [ ] Implement map view of restaurant results.
-- [ ] Implement the restaurant detail page.
-
-The following **additional** features are implemented:
-
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:

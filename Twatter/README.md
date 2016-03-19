@@ -17,16 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] When composing, you should have a countdown in the upper right for the tweet limit.
-- [ ] After creating a new tweet, a user should be able to view it in the timeline immediately without refetching the timeline from the network.
 - [x] Profile Page
-- [ ] Implement the paging view for the user description.
-- [ ] As the paging view moves, increase the opacity of the background screen. See the actual Twitter app for this effect
-- [ ] Pulling down the profile page should blur and resize the header image.
-- [ ] Account switching
-- [ ] Long press on tab bar to bring up Account view with animation
-- [ ] Tap account to switch to
-- [ ] Include a plus button to Add an Account
-- [ ] Swipe to delete an account
 
 The following **additional** features are implemented:
 

@@ -21,11 +21,6 @@ The following **optional** features are implemented:
 - [x] User Profiles:
 - [x] Allow the logged in user to add a profile photo
 - [x] Display the profile photo with each post
-- [ ] Tapping on a post's username or profile photo goes to that user's profile page
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
