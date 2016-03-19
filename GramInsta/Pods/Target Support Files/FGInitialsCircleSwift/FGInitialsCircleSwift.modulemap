@@ -1,6 +1,0 @@
-framework module FGInitialsCircleSwift {
-  umbrella header "FGInitialsCircleSwift-umbrella.h"
-
-  export *
-  module * { export * }
-}
