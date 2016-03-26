@@ -25,6 +25,8 @@ This is a list of all my iOS apps I have developed or have played a major part i
   - Connects users who want to play the same sport
   - Tinder for sports
 
-####Other iOS apps
+####Other iOS projects
 - [Cartera] (https://github.com/makersofawesome/cartera_ios)
   - Banking app for Virginia Tech's hackathon
+- [DualSlideMenu] (https://github.com/vinnyoodles/DualSlideMenu)
+  - Cocoapod for adding a left and right side menu to keep the home page clutter free
